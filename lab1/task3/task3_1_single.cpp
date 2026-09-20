@@ -4,7 +4,6 @@
 using namespace std;
 
 // ------- Cпособ 1. конструкция single -------
- 
 int main(int argc, char* argv[])
 {
     if (argc < 2) {
