@@ -3,6 +3,7 @@
 #include <cstdlib>
 using namespace std;
 
+// ------- Способ 2. Критическая секция + общий счётчик -------
 int main(int argc, char* argv[])
 {
     if (argc < 2) {
