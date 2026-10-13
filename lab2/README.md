@@ -39,3 +39,7 @@ g++ -fopenmp matrix_mult.cpp -o matrix_mult
 ./matrix_mult 500 2
 ./matrix_mult 500 4
 ./matrix_mult 500 8
+```
+
+## Автор: Зусь Александра, гр. 4404
+
